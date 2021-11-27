@@ -1,0 +1,6 @@
+1
+Name: Olan Gomez
+Age: 20
+President: Leni Robredo
+Vice President: Kiko Pangilinan
+Senators: Jack, Jill, James, John
